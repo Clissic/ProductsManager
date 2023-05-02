@@ -106,11 +106,11 @@ class ProductManager {
 
 const productManager = new ProductManager("products.json");
 
-productManager.createProduct(
+/* productManager.createProduct(
   "producto prueba",
   "Este es un producto prueba",
   200,
   "Sin imagen",
   "abc123",
   25
-);
+); */

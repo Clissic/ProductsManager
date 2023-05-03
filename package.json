@@ -1,17 +1,23 @@
 {
   "name": "curso-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "curso backend",
+  "main": "ProductManager.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clissic/ProductsManager.git"
+  },
+  "keywords": [
+    "backend",
+    "coderhouse"
+  ],
+  "author": "Joaquin Perez",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2",
-    "moment": "^2.29.4",
-    "nodemon": "^2.0.22"
-  }
+  "bugs": {
+    "url": "https://github.com/Clissic/ProductsManager/issues"
+  },
+  "homepage": "https://github.com/Clissic/ProductsManager#readme"
 }
